@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Isabela!
 Greetings from Brazil!<br/>
-🎯 My goal is to get better at coding in Python!<br/>
+🎯 My goal is to get better at coding!<br/>
 🧬 I'm currently studying Biomolecular Physics at [University of Sao Paulo](https://www5.usp.br/)<br/>
 
 
